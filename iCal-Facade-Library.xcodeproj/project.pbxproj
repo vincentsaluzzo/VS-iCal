@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1FCA3C0A14A08F9C00C2739F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FCA3C0914A08F9C00C2739F /* Cocoa.framework */; };
+		1FCA3C1414A08F9C00C2739F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1FCA3C1214A08F9C00C2739F /* InfoPlist.strings */; };
+		1FCA3C1814A08F9C00C2739F /* iCal_Facade_Library.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FCA3C1714A08F9C00C2739F /* iCal_Facade_Library.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1FCA3C0614A08F9C00C2739F /* iCal-Facade-Library.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "iCal-Facade-Library.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FCA3C0914A08F9C00C2739F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		1FCA3C0C14A08F9C00C2739F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		1FCA3C0D14A08F9C00C2739F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		1FCA3C0E14A08F9C00C2739F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1FCA3C1114A08F9C00C2739F /* iCal-Facade-Library-Info.plist */ = {isa = PBXFileReference; path = "iCal-Facade-Library-Info.plist"; sourceTree = "<group>"; };
+		1FCA3C1314A08F9C00C2739F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1FCA3C1514A08F9C00C2739F /* iCal-Facade-Library-Prefix.pch */ = {isa = PBXFileReference; path = "iCal-Facade-Library-Prefix.pch"; sourceTree = "<group>"; };
+		1FCA3C1614A08F9C00C2739F /* iCal_Facade_Library.h */ = {isa = PBXFileReference; path = iCal_Facade_Library.h; sourceTree = "<group>"; };
+		1FCA3C1714A08F9C00C2739F /* iCal_Facade_Library.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iCal_Facade_Library.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1FCA3C0214A08F9C00C2739F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FCA3C0A14A08F9C00C2739F /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1FCA3BFA14A08F9C00C2739F = {
+			isa = PBXGroup;
+			children = (
+				1FCA3C0F14A08F9C00C2739F /* iCal-Facade-Library */,
+				1FCA3C0814A08F9C00C2739F /* Frameworks */,
+				1FCA3C0714A08F9C00C2739F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1FCA3C0714A08F9C00C2739F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1FCA3C0614A08F9C00C2739F /* iCal-Facade-Library.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1FCA3C0814A08F9C00C2739F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FCA3C0914A08F9C00C2739F /* Cocoa.framework */,
+				1FCA3C0B14A08F9C00C2739F /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1FCA3C0B14A08F9C00C2739F /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FCA3C0C14A08F9C00C2739F /* AppKit.framework */,
+				1FCA3C0D14A08F9C00C2739F /* CoreData.framework */,
+				1FCA3C0E14A08F9C00C2739F /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		1FCA3C0F14A08F9C00C2739F /* iCal-Facade-Library */ = {
+			isa = PBXGroup;
+			children = (
+				1FCA3C1614A08F9C00C2739F /* iCal_Facade_Library.h */,
+				1FCA3C1714A08F9C00C2739F /* iCal_Facade_Library.m */,
+				1FCA3C1014A08F9C00C2739F /* Supporting Files */,
+			);
+			path = "iCal-Facade-Library";
+			sourceTree = "<group>";
+		};
+		1FCA3C1014A08F9C00C2739F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1FCA3C1114A08F9C00C2739F /* iCal-Facade-Library-Info.plist */,
+				1FCA3C1214A08F9C00C2739F /* InfoPlist.strings */,
+				1FCA3C1514A08F9C00C2739F /* iCal-Facade-Library-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1FCA3C0314A08F9C00C2739F /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		1FCA3C0514A08F9C00C2739F /* iCal-Facade-Library */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FCA3C1B14A08F9C00C2739F /* Build configuration list for PBXNativeTarget "iCal-Facade-Library" */;
+			buildPhases = (
+				1FCA3C0114A08F9C00C2739F /* Sources */,
+				1FCA3C0214A08F9C00C2739F /* Frameworks */,
+				1FCA3C0314A08F9C00C2739F /* Headers */,
+				1FCA3C0414A08F9C00C2739F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "iCal-Facade-Library";
+			productName = "iCal-Facade-Library";
+			productReference = 1FCA3C0614A08F9C00C2739F /* iCal-Facade-Library.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1FCA3BFC14A08F9C00C2739F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 1FCA3BFF14A08F9C00C2739F /* Build configuration list for PBXProject "iCal-Facade-Library" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1FCA3BFA14A08F9C00C2739F;
+			productRefGroup = 1FCA3C0714A08F9C00C2739F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1FCA3C0514A08F9C00C2739F /* iCal-Facade-Library */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1FCA3C0414A08F9C00C2739F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FCA3C1414A08F9C00C2739F /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1FCA3C0114A08F9C00C2739F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FCA3C1814A08F9C00C2739F /* iCal_Facade_Library.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1FCA3C1214A08F9C00C2739F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1FCA3C1314A08F9C00C2739F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1FCA3C1914A08F9C00C2739F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		1FCA3C1A14A08F9C00C2739F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		1FCA3C1C14A08F9C00C2739F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iCal-Facade-Library/iCal-Facade-Library-Prefix.pch";
+				INFOPLIST_FILE = "iCal-Facade-Library/iCal-Facade-Library-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Debug;
+		};
+		1FCA3C1D14A08F9C00C2739F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iCal-Facade-Library/iCal-Facade-Library-Prefix.pch";
+				INFOPLIST_FILE = "iCal-Facade-Library/iCal-Facade-Library-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1FCA3BFF14A08F9C00C2739F /* Build configuration list for PBXProject "iCal-Facade-Library" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FCA3C1914A08F9C00C2739F /* Debug */,
+				1FCA3C1A14A08F9C00C2739F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FCA3C1B14A08F9C00C2739F /* Build configuration list for PBXNativeTarget "iCal-Facade-Library" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FCA3C1C14A08F9C00C2739F /* Debug */,
+				1FCA3C1D14A08F9C00C2739F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1FCA3BFC14A08F9C00C2739F /* Project object */;
+}
