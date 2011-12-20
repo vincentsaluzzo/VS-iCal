@@ -9,7 +9,10 @@
 /* Begin PBXBuildFile section */
 		1FCA3C0A14A08F9C00C2739F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FCA3C0914A08F9C00C2739F /* Cocoa.framework */; };
 		1FCA3C1414A08F9C00C2739F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1FCA3C1214A08F9C00C2739F /* InfoPlist.strings */; };
-		1FCA3C1814A08F9C00C2739F /* iCal_Facade_Library.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FCA3C1714A08F9C00C2739F /* iCal_Facade_Library.m */; };
+		1FCA3C2014A08FDE00C2739F /* iCalCalendar.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FCA3C1E14A08FDE00C2739F /* iCalCalendar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1FCA3C2114A08FDE00C2739F /* iCalCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FCA3C1F14A08FDE00C2739F /* iCalCalendar.m */; };
+		1FCA3C2314A0900F00C2739F /* CalendarStore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FCA3C2214A0900F00C2739F /* CalendarStore.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		1FCA3C2514A0926100C2739F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1FCA3C2414A0926000C2739F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,11 +21,13 @@
 		1FCA3C0C14A08F9C00C2739F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		1FCA3C0D14A08F9C00C2739F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		1FCA3C0E14A08F9C00C2739F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1FCA3C1114A08F9C00C2739F /* iCal-Facade-Library-Info.plist */ = {isa = PBXFileReference; path = "iCal-Facade-Library-Info.plist"; sourceTree = "<group>"; };
+		1FCA3C1114A08F9C00C2739F /* iCal-Facade-Library-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iCal-Facade-Library-Info.plist"; sourceTree = "<group>"; };
 		1FCA3C1314A08F9C00C2739F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1FCA3C1514A08F9C00C2739F /* iCal-Facade-Library-Prefix.pch */ = {isa = PBXFileReference; path = "iCal-Facade-Library-Prefix.pch"; sourceTree = "<group>"; };
-		1FCA3C1614A08F9C00C2739F /* iCal_Facade_Library.h */ = {isa = PBXFileReference; path = iCal_Facade_Library.h; sourceTree = "<group>"; };
-		1FCA3C1714A08F9C00C2739F /* iCal_Facade_Library.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iCal_Facade_Library.m; sourceTree = "<group>"; };
+		1FCA3C1514A08F9C00C2739F /* iCal-Facade-Library-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iCal-Facade-Library-Prefix.pch"; sourceTree = "<group>"; };
+		1FCA3C1E14A08FDE00C2739F /* iCalCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCalCalendar.h; sourceTree = "<group>"; };
+		1FCA3C1F14A08FDE00C2739F /* iCalCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCalCalendar.m; sourceTree = "<group>"; };
+		1FCA3C2214A0900F00C2739F /* CalendarStore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CalendarStore.framework; path = System/Library/Frameworks/CalendarStore.framework; sourceTree = SDKROOT; };
+		1FCA3C2414A0926000C2739F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,6 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FCA3C2314A0900F00C2739F /* CalendarStore.framework in Frameworks */,
 				1FCA3C0A14A08F9C00C2739F /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -40,6 +46,7 @@
 		1FCA3BFA14A08F9C00C2739F = {
 			isa = PBXGroup;
 			children = (
+				1FCA3C2414A0926000C2739F /* README.md */,
 				1FCA3C0F14A08F9C00C2739F /* iCal-Facade-Library */,
 				1FCA3C0814A08F9C00C2739F /* Frameworks */,
 				1FCA3C0714A08F9C00C2739F /* Products */,
@@ -57,6 +64,7 @@
 		1FCA3C0814A08F9C00C2739F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				1FCA3C2214A0900F00C2739F /* CalendarStore.framework */,
 				1FCA3C0914A08F9C00C2739F /* Cocoa.framework */,
 				1FCA3C0B14A08F9C00C2739F /* Other Frameworks */,
 			);
@@ -76,8 +84,8 @@
 		1FCA3C0F14A08F9C00C2739F /* iCal-Facade-Library */ = {
 			isa = PBXGroup;
 			children = (
-				1FCA3C1614A08F9C00C2739F /* iCal_Facade_Library.h */,
-				1FCA3C1714A08F9C00C2739F /* iCal_Facade_Library.m */,
+				1FCA3C1E14A08FDE00C2739F /* iCalCalendar.h */,
+				1FCA3C1F14A08FDE00C2739F /* iCalCalendar.m */,
 				1FCA3C1014A08F9C00C2739F /* Supporting Files */,
 			);
 			path = "iCal-Facade-Library";
@@ -100,6 +108,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FCA3C2014A08FDE00C2739F /* iCalCalendar.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FCA3C1414A08F9C00C2739F /* InfoPlist.strings in Resources */,
+				1FCA3C2514A0926100C2739F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,7 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FCA3C1814A08F9C00C2739F /* iCal_Facade_Library.m in Sources */,
+				1FCA3C2114A08FDE00C2739F /* iCalCalendar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

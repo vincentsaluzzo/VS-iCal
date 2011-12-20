@@ -1,0 +1,236 @@
+TiCal-Facade-Library
+v4
+r1
+cCheck dependencies
+cSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/Current" A
+cSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Resources" Versions/Current/Resources
+cSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/iCal-Facade-Library" Versions/Current/iCal-Facade-Library
+cSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Headers" Versions/Current/Headers
+cProcessInfoPlistFile "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/Info.plist" iCal-Facade-Library/iCal-Facade-Library-Info.plist
+cProcessPCH /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.pth iCal-Facade-Library/iCal-Facade-Library-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.o "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library" normal x86_64
+cGenerateDSYMFile "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYM" "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library"
+cCpHeader iCal-Facade-Library/iCalCalendar.h build/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h
+cCopyStringsFile "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/en.lproj/InfoPlist.strings" iCal-Facade-Library/en.lproj/InfoPlist.strings
+cTouch "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework"
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E8D5D4800000000000000EE
+t1317887304
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/CalendarStore.framework/CalendarStore
+c000000004E7AD702000000000008AB24
+t1316673282
+s568100
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E7AD7020000000000002470
+t1316673282
+s9328
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYM
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Headers
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Resources
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/Info.plist
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/Current
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/iCal-Facade-Library
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCal-Facade-Library.LinkFileList
+c000000004EF059BC00000000000000B9
+t1324374460
+s185
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/en.lproj/InfoPlist.strings
+c000000004EF0581C000000000000002D
+t1324374044
+s45
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCal-Facade-Library-Prefix.pch
+c000000004EF0581C00000000000000A9
+t1324374044
+s169
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.h
+c000000004EF0598E00000000000009E4
+t1324374414
+s2532
+
+N/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m
+c000000004EF059AE0000000000001D56
+t1324374446
+s7510
+
+N/var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.pth
+t2
+s0
+
+NiCal-Facade-Library/iCal-Facade-Library-Info.plist
+c000000004EF0590500000000000003C9
+t1324374277
+s969
+
+CBuild AST from "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesff42873c91a0b441^656d8b3c91a0b441^---0#1#0#--18"Check dependencies36"DBBBEC0C-6EDB-4098-8DE8-364C89D19765-
+
+CCompileC build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.o "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346067261.133001
+e346067261.405437
+r1
+xCompileC
+xbuild/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.o
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m6f2a223d91a0b441^daca673d91a0b441^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/vincentsaluzzo/Developpement/Projet%20iCal%20Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m0000000000000000^3022"CompileC build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.o iCal-Facade-Library/iCalCalendar.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-generated-files.hmap" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-own-target-headers.hmap" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-all-target-headers.hmap" -iquote "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-project-headers.hmap" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/include" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/DerivedSources/x86_64" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/DerivedSources" "-F/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release" -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch -MMD -MT dependencies -MF "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.d" -c "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.m" -o "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCalCalendar.o"36"313A54DD-64A7-4982-AE5B-9C49B444B8B2-
+
+CCopyStringsFile "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/en.lproj/InfoPlist.strings" iCal-Facade-Library/en.lproj/InfoPlist.strings
+s346067261.713821
+e346067261.717362
+r1
+xCopyStringsFile
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+xiCal-Facade-Library/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy iCal-Facade-Library/en.lproj/InfoPlist.stringsb6dbb63d91a0b441^7fa5b73d91a0b441^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/vincentsaluzzo/Developpement/Projet%20iCal%20Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/en.lproj/InfoPlist.strings0000000000000000^544"CopyStringsFile build/Release/iCal-Facade-Library.framework/Versions/A/Resources/en.lproj/InfoPlist.strings iCal-Facade-Library/en.lproj/InfoPlist.strings    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/en.lproj" -- iCal-Facade-Library/en.lproj/InfoPlist.strings36"FEC088DA-092B-4C5F-8EEF-009F858C3FCB-
+
+CCpHeader iCal-Facade-Library/iCalCalendar.h build/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h
+s346067261.700294
+e346067261.704639
+r1
+xCpHeader
+xiCal-Facade-Library/iCalCalendar.h
+xbuild/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy build/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h255db33d91a0b441^1364b43d91a0b441^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/vincentsaluzzo/Developpement/Projet%20iCal%20Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h00f428d9ddffdf42^612"CpHeader iCal-Facade-Library/iCalCalendar.h build/Release/iCal-Facade-Library.framework/Versions/A/Headers/iCalCalendar.h    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCalCalendar.h" "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Headers"36"4FA1EC9F-E387-48DB-BEF6-7F05544381CD-
+
+CGenerateDSYMFile "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYM" "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library"
+s346067261.455633
+e346067261.691238
+r1
+xGenerateDSYMFile
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYM
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generating /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYMdec8743d91a0b441^16f6b03d91a0b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/vincentsaluzzo/Developpement/Projet%20iCal%20Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYM00f428d9ddffdf42^559"GenerateDSYMFile build/Release/iCal-Facade-Library.framework.dSYM build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    /Developer/usr/bin/dsymutil "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library" -o "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework.dSYM"36"8AFBE5B0-C511-42F4-8C25-36A3C1E33608-
+
+CLd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library" normal x86_64
+s346067261.414086
+e346067261.447769
+r1
+xLd
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"Link /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library84126a3d91a0b441^fda0723d91a0b441^---0#0#0#--1118"Ld build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library normal x86_64    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.7.sdk "-L/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release" "-F/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release" -filelist "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/Objects-normal/x86_64/iCal-Facade-Library.LinkFileList" -install_name /Library/Frameworks/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library -mmacosx-version-min=10.7 -framework CalendarStore -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -o "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/iCal-Facade-Library"36"E0AC8B5A-1B4E-4977-A711-752FA576CDF1-
+
+CProcessInfoPlistFile "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/Info.plist" iCal-Facade-Library/iCal-Facade-Library-Info.plist
+s346067260.575942
+e346067260.580703
+r1
+xProcessInfoPlistFile
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/Info.plist
+xiCal-Facade-Library/iCal-Facade-Library-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process iCal-Facade-Library/iCal-Facade-Library-Info.plistda90933c91a0b441^48a9943c91a0b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/vincentsaluzzo/Developpement/Projet%20iCal%20Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCal-Facade-Library-Info.plist0000000000000000^520"ProcessInfoPlistFile build/Release/iCal-Facade-Library.framework/Versions/A/Resources/Info.plist iCal-Facade-Library/iCal-Facade-Library-Info.plist    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    builtin-infoPlistUtility iCal-Facade-Library/iCal-Facade-Library-Info.plist -expandbuildsettings -platform macosx -o "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/A/Resources/Info.plist"36"0C5D62BC-00B2-4504-BC3D-94B88AF0963D-
+
+CProcessPCH /Users/vincentsaluzzo/Library/Developer/Xcode/DerivedData/iCal-Facade-Library-gdfapayrlhiictdrmbyhrciigtfe/Index/PrecompiledHeaders/iCal-Facade-Library-Prefix-dpwvcznoincxjiecfjdxgipisueo_ast/iCal-Facade-Library-Prefix.pch.pth iCal-Facade-Library/iCal-Facade-Library-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.pth iCal-Facade-Library/iCal-Facade-Library-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346067260.597847
+e346067261.125270
+r1
+xProcessPCH
+x/var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.pth
+xiCal-Facade-Library/iCal-Facade-Library-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile iCal-Facade-Library/iCal-Facade-Library-Prefix.pch2a52993c91a0b441^b211203d91a0b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/vincentsaluzzo/Developpement/Projet%20iCal%20Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCal-Facade-Library-Prefix.pch0000000000000000^2949"ProcessPCH /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.pth iCal-Facade-Library/iCal-Facade-Library-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-generated-files.hmap" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-own-target-headers.hmap" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-all-target-headers.hmap" -iquote "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/iCal-Facade-Library-project-headers.hmap" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/include" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/DerivedSources/x86_64" "-I/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/iCal-Facade-Library.build/Release/iCal-Facade-Library.build/DerivedSources" "-F/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release" -c "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/iCal-Facade-Library/iCal-Facade-Library-Prefix.pch" -o /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCal-Facade-Library-Prefix-gzlmwkaaqlaswxfhowoqtwkxwigv/iCal-Facade-Library-Prefix.pch.d36"ACF76676-AAC4-425F-8224-38A392A8087B-
+
+CSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Headers" Versions/Current/Headers
+s346067260.560968
+e346067260.566558
+r1
+xSymLink
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Headers
+xVersions/Current/Headers
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Process /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Headers5cad8f3c91a0b441^9e09913c91a0b441^---0#0#0#--353"SymLink build/Release/iCal-Facade-Library.framework/Headers Versions/Current/Headers    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    /bin/ln -sf Versions/Current/Headers "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Headers"36"687B84C5-3C18-473B-9FB6-EC07526D69B6-
+
+CSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Resources" Versions/Current/Resources
+s346067260.548908
+e346067260.554645
+r1
+xSymLink
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Resources
+xVersions/Current/Resources
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Process /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Resourcesde8e8c3c91a0b441^37fd8d3c91a0b441^---0#0#0#--361"SymLink build/Release/iCal-Facade-Library.framework/Resources Versions/Current/Resources    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    /bin/ln -sf Versions/Current/Resources "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Resources"36"AC458880-5FCB-47D7-AF84-A6227039D70F-
+
+CSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/Current" A
+s346067260.548863
+e346067260.553770
+r1
+xSymLink
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/Current
+xA
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Process /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/Currentc18d8c3c91a0b441^22c48d3c91a0b441^---0#0#0#--325"SymLink build/Release/iCal-Facade-Library.framework/Versions/Current A    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    /bin/ln -sf A "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/Versions/Current"36"224C9D76-B39E-4C20-B455-59C591728ECB-
+
+CSymLink "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/iCal-Facade-Library" Versions/Current/iCal-Facade-Library
+s346067260.549267
+e346067260.555779
+r1
+xSymLink
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/iCal-Facade-Library
+xVersions/Current/iCal-Facade-Library
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Process /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/iCal-Facade-Library65a68c3c91a0b441^ed478e3c91a0b441^---0#0#0#--401"SymLink build/Release/iCal-Facade-Library.framework/iCal-Facade-Library Versions/Current/iCal-Facade-Library    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    /bin/ln -sf Versions/Current/iCal-Facade-Library "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework/iCal-Facade-Library"36"99609A26-5D3A-4817-BE25-AC4502F4D584-
+
+CTouch "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework"
+s346067261.726547
+e346067261.733940
+r1
+xTouch
+x/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Touch /Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.frameworkd712ba3d91a0b441^2ae3bb3d91a0b441^---0#0#0#--291"Touch build/Release/iCal-Facade-Library.framework    cd "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library"    /usr/bin/touch -c "/Users/vincentsaluzzo/Developpement/Projet iCal Library/Xcode/iCal-Facade-Library/build/Release/iCal-Facade-Library.framework"36"8CB6E6D9-859B-4192-BD52-123BB98FA34E-
+
